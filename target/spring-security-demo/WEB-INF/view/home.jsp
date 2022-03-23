@@ -5,7 +5,7 @@
     </title>
 </head>
 <body>
-<h2> Company Home Page - Main1</h2>
+<h2> Company Home Page - Main12</h2>
 <hr>
 welcome to the home page
 </body>
